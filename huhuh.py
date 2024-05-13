@@ -4,7 +4,7 @@ import time
 
 finished = False
 content = "undef"
-path = "/"
+path = "/" # wtd
 
 
 def doBack(text,file_path):
